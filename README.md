@@ -33,7 +33,7 @@
 # vim config.inc.php
 </pre>
 
-->teste<-
+-> teste <-
 ![Alt text](img/1.png?raw=true "Image 1")
 2
 ![Alt text](img/2.png?raw=true "Image 2")
