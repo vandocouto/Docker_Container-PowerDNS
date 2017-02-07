@@ -33,5 +33,24 @@
 # vim config.inc.php
 </pre>
 
+1
+![Alt text](img/1.png?raw=true "Image 1")
+2
+![Alt text](img/1.png?raw=true "Image 1")
+3
+![Alt text](img/1.png?raw=true "Image 1")
+4
+![Alt text](img/1.png?raw=true "Image 1")
+5
+![Alt text](img/1.png?raw=true "Image 1")
+6
+![Alt text](img/1.png?raw=true "Image 1")
+7
+![Alt text](img/1.png?raw=true "Image 1")
+8
+![Alt text](img/1.png?raw=true "Image 1")
+9
+![Alt text](img/1.png?raw=true "Image 1")
+10
 ![Alt text](img/1.png?raw=true "Image 1")
 
