@@ -33,3 +33,5 @@
 # vim config.inc.php
 </pre>
 
+![Alt text](img/1.png?raw=true "Image 1")
+
